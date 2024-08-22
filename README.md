@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi, I'm Ricardo 👋
+Here is a little bit about me in pictures....
+
+![network_admin](https://github.com/user-attachments/assets/946d258a-1b53-41a0-9f1f-4fd7bf95ecd7)
+
+![DataCenterInfrastructure](https://github.com/user-attachments/assets/1f0331da-4c26-4049-83b6-a51ad19bb35f)
+
+![Computer_Breakage](https://github.com/user-attachments/assets/15acb606-e4d4-4307-b087-3be7d21bc59f)
+
+
 
 <!--
 **rsal77/rsal77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
